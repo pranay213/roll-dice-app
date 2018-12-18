@@ -5,6 +5,8 @@ Directly you can download the zip file and extract them open them up in Android 
 
 you can see like this
 
+![screenshot_2018-12-18-11-49-06](https://user-images.githubusercontent.com/45891116/50136030-49e70800-028e-11e9-9e81-da2b82d932e2.png)
+
 
 # Roll Dice
 Created 6 dice indexing images and copy them to drawable folder and created an  animation  file (it having rolling  code)
